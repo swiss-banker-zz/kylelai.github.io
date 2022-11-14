@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kyle Lai portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://kylelai.github.io/",
   },
 };
 
