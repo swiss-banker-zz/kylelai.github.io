@@ -475,7 +475,7 @@
         C = {
           title: "Kyle's Portfolio",
           description:
-            "A frontend and full stack web developer with experience in mainly React-Redux and Svelte.",
+            "A frontend and full stack web developer with experience in mainly React-Redux and Svelte, looking to connect with other software engineers.",
           og: {
             title: "Kyle Lai portfolio",
             type: "website",
@@ -486,7 +486,7 @@
         y = "KyleLai",
         v = "Software Engineer",
         w =
-          "A frontend and full stack web developer with experience in mainly React-Redux and Svelte.",
+          "A frontend and full stack web developer with experience in mainly React-Redux and Svelte, looking to connect with other software engineers.",
         x =
           "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
         M = "https://github.com/swiss-banker/kylelai.github.io",
@@ -8806,4 +8806,4 @@
   ]),
   [[129, 1, 2]],
 ]);
-//# sourceMappingURL=main.6db8b527.chunk.js.map
+//# sourceMappingURL=main.e684ead0.chunk.js.map
