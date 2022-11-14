@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kyle's Portfolio",
   description:
-    "A frontend and full stack web developer with experience in mainly React-Redux and Svelte.",
+    "A frontend and full stack web developer with experience in mainly React-Redux and Svelte, looking to connect with other software engineers.",
   og: {
     title: "Kyle Lai portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "KyleLai",
   nickname: "Software Engineer",
   subTitle:
-    "A frontend and full stack web developer with experience in mainly React-Redux and Svelte.",
+    "A frontend and full stack web developer with experience in mainly React-Redux and Svelte, looking to connect with other software engineers.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   portfolio_repository: "https://github.com/swiss-banker/kylelai.github.io",
@@ -168,46 +168,46 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
 
